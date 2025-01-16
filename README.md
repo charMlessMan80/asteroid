@@ -5,6 +5,7 @@ This is my first game developped in Python.
 Requirements :
 --------------
 Python >= 3.10
+
 pygame
 
 Installation :
